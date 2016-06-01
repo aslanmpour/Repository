@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>latias</file>
+        <file>Pokeball.gif</file>
+        <file>bg</file>
+        <file>boo.png</file>
+        <file>abstract trees birds silhouette 1600x1200 wallpaper_www.wallpaperhi.com_39.jpg</file>
+        <file>sonic.gif</file>
+        <file>gameover.jpg</file>
+        <file>space.jpg</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>starfox.mp3</file>
+        <file>jump.wav</file>
+        <file>speed.wav</file>
+        <file>throw.mp3</file>
+        <file>throw2.wav</file>
+        <file>halotheme.mp3</file>
+        <file>catch.wav</file>
+        <file>falling.wav</file>
+        <file>metalgear.mp3</file>
+    </qresource>
+</RCC>
